@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"video",
+				"videoname"
+			],
+			[
+				"fi",
+				"find_line"
+			],
+			[
+				"fil",
+				"filename1"
+			],
+			[
+				"data",
+				"data_train"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"w",
+				"weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "3_voc_label.py",
+			"settings":
+			{
+				"buffer_size": 3908,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "0_saveframe.py",
+			"settings":
+			{
+				"buffer_size": 890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "7_xml.py",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/python3.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/7_xml.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/1_rename_file2.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/0_saveframe.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/test.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/3_voc_label.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/1_rename_file.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/test_cb.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/2_listname_yolo.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/precision_recall.py",
+		"/Users/wumanjia/Desktop/author/templates/mobility.bib",
+		"/Users/wumanjia/Desktop/readme.txt",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/yolo_dataset.sublime-project",
+		"/Users/wumanjia/.pyenv/versions/anaconda3-5.0.1/lib/python3.6/encodings/ascii.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/5_mat_yolo.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/test2.py",
+		"/Users/wumanjia/PycharmProjects/yolo_dataset/5_mat_yolo",
+		"/Users/wumanjia/Library/Application Support/Sublime Text 2/Packages/User/python3.sublime-build",
+		"/Users/wumanjia/PycharmProjects/labelImg-master/labelImg.py",
+		"/Users/wumanjia/PycharmProjects/cp_白夜行.txt",
+		"/Volumes/Machsion HD/毕业设计汇总/0 bicycle/7_kmeans.py",
+		"/Volumes/Machsion HD/毕业设计汇总/0 bicycle/8_figure.py",
+		"/Volumes/Machsion HD/毕业设计汇总/0 bicycle/ch.py",
+		"/Volumes/Machsion HD/毕业设计汇总/0 bicycle/data_3day.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xmltxt",
+			"sort",
+			"goog'l'r",
+			"font.family",
+			"ch",
+			"append",
+			"[]",
+			"append"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "3_voc_label.py",
+					"settings":
+					{
+						"buffer_size": 3908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1556.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "0_saveframe.py",
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 21.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "7_xml.py",
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
